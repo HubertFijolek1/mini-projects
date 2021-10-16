@@ -6,6 +6,8 @@ with open("hangman_words.txt") as f:
         word_list.append(l.strip())
 f.close()
 
+
+
 def get_word(word_list):
     word = random.choice(word_list)
     return word.upper()
