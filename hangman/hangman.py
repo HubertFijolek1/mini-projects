@@ -1,4 +1,5 @@
 import random
+
 word_list=[]
 with open("hangman_words.txt") as f:
     for l in f:
