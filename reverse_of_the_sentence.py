@@ -1,4 +1,5 @@
 sentence = "skaerf nohtyp lla ot olleh"
+
 # correct_sentence = []
 # for i in sentence.split(" "):
 #     correct_sentence.append(i[::-1])
