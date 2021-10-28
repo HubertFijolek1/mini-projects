@@ -10,5 +10,4 @@ sentence = "skaerf nohtyp lla ot olleh"
 list1 = []
 correct_sentence=[i[::-1] for i in sentence.split(" ") ]
 correct_sentence.reverse()
-
 print(correct_sentence)
