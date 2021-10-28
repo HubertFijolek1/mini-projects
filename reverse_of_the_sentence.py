@@ -8,6 +8,7 @@ sentence = "skaerf nohtyp lla ot olleh"
 
 # print(correct_sentence)
 list1 = []
+
 correct_sentence=[i[::-1] for i in sentence.split(" ") ]
 correct_sentence.reverse()
 print(correct_sentence)
