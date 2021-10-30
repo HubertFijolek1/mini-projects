@@ -8,6 +8,7 @@ def check_tuples(tuple1, tuple2):
         if element not in tuple2:
             return False
     return True
+
     
 print(check_tuples(tuple1, tuple2))
 
