@@ -14,4 +14,5 @@ print(correct_sentence)
 correct_sentence.reverse()
 correct_sentence=" ".join(correct_sentence)
 
+
 print(correct_sentence)
